@@ -1,0 +1,19 @@
+body {
+	background-color: palegreen;
+	font-size: 20px;
+	margin-right: 150px;
+	margin-left: 100px;
+}
+	
+h1 {
+	font-family: Verdana, sans-serif;
+	color: darkmagenta;
+}
+
+h2 {
+	font-family: Helvetica, sans-serif;
+	color: darkmagenta;
+}
+table {
+	font-size: 20px;	
+}
